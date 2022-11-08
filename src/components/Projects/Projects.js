@@ -26,9 +26,9 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Home Automation using IOT"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              description="A step towards Home Automation using IOT Abstract: The aim of this paper is to develop home automation system based on IOT using Wi-Fi based microcontroller. As scope of technology is widening every day, we are making our tech advance in mobile, robotics, Machine Learning, then why an exception for our home."
+              ghLink="https://github.com/prasathkrishna/IOT-Home-Automation-Using-Flask"
+              
             />
           </Col>
 
@@ -37,9 +37,9 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Intelligence ToolKit"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="Cyber threat intelligence is a maturing market, with nearly half of the world’s enterprises having a formal team dedicated to this function. According to the 2021 SANS Cyber Threat Intelligence (CTI) Survey, 44.4% have a formal,dedicated team, and another 13.8% have a single dedicated cyber threat intelligence professional."
+              ghLink="https://github.com/prasathkrishna/Intelligence-Toolkit"
+              
             />
           </Col>
 
@@ -48,9 +48,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Text to Speech Conventer using Amazon Polly"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              description="Amazon Polly converts input text into life-like speech. You call one of the speech synthesis methods, provide the text that you want to synthesize, choose one of the Neural Text-to-Speech (NTTS) or Standard Text-to-Speech (TTS) voices, and specify an audio output format. Amazon Polly then synthesizes the provided text into a high-quality speech audio stream."
+              ghLink="https://github.com/prasathkrishna/Amazon-Polly"       
             />
           </Col>
 
@@ -59,9 +58,9 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Smart Farm Automation using IOT"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              description="This smart farming project is in trending nowadays because it can reduce the manpower in farming and secondly it is an automatic system so you don't need to interfere in it. So if you also want to make such a system for yourself then follow the given instructions carefully. This IoT farming project will send all the data to the server. We are using the Thingspeak server for receiving and collecting the data that is collected by the different sensors. "
+              ghLink="https://github.com/IBM-EPBL/IBM-Project-1687-1658409883"
+      
             />
           </Col>
         </Row>
